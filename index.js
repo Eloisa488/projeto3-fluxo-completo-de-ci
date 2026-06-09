@@ -1,0 +1,1 @@
+const soma = require('./src/calc.js')
